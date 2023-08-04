@@ -1,5 +1,7 @@
 # pyBittle
 
+# This is a Modified Version of pyBittle to remove errors caused by pyBluez
+
 pyBittle is an Open Source Python library for easily connecting to Bittle and controlling it.
 This library provides a set of methods to communicating with Bittle through WiFi, allowing to control it remotely.
 
